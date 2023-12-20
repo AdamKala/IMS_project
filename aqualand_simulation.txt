@@ -1,0 +1,358 @@
++----------------------------------------------------------+
+| FACILITY Pokladna 1                                      |
++----------------------------------------------------------+
+|  Status = BUSY                                           |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 119                                |
+|  Average utilization = 1                                 |
++----------------------------------------------------------+
+  Input queue 'Pokladna 1.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  137                                           |
+|  Outcoming  118                                          |
+|  Current length = 19                                     |
+|  Maximal length = 51                                     |
+|  Average length = 25.2304                                |
+|  Minimal time = 0.792954                                 |
+|  Maximal time = 52.815                                   |
+|  Average time = 24.393                                   |
+|  Standard deviation = 12.5442                            |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Pokladna 2                                      |
++----------------------------------------------------------+
+|  Status = BUSY                                           |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 107                                |
+|  Average utilization = 0.880427                          |
++----------------------------------------------------------+
+  Input queue 'Pokladna 2.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  123                                           |
+|  Outcoming  105                                          |
+|  Current length = 18                                     |
+|  Maximal length = 24                                     |
+|  Average length = 15.0532                                |
+|  Minimal time = 0.454164                                 |
+|  Maximal time = 31.6683                                  |
+|  Average time = 14.5152                                  |
+|  Standard deviation = 8.78198                            |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Pokladna 3                                      |
++----------------------------------------------------------+
+|  Status = BUSY                                           |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 129                                |
+|  Average utilization = 0.876196                          |
++----------------------------------------------------------+
+  Input queue 'Pokladna 3.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  145                                           |
+|  Outcoming  128                                          |
+|  Current length = 17                                     |
+|  Maximal length = 24                                     |
+|  Average length = 14.5504                                |
+|  Minimal time = 0.235932                                 |
+|  Maximal time = 20.768                                   |
+|  Average time = 12.5646                                  |
+|  Standard deviation = 5.07964                            |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Pokladna 4                                      |
++----------------------------------------------------------+
+|  Status = BUSY                                           |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 98                                 |
+|  Average utilization = 0.874137                          |
++----------------------------------------------------------+
+  Input queue 'Pokladna 4.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  114                                           |
+|  Outcoming  96                                           |
+|  Current length = 18                                     |
+|  Maximal length = 24                                     |
+|  Average length = 14.4703                                |
+|  Minimal time = 3.52362                                  |
+|  Maximal time = 28.3425                                  |
+|  Average time = 16.8458                                  |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Tobogan 1                                       |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 279                                |
+|  Average utilization = 0.676486                          |
++----------------------------------------------------------+
+  Input queue 'Tobogan 1.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  232                                           |
+|  Outcoming  232                                          |
+|  Current length = 0                                      |
+|  Maximal length = 6                                      |
+|  Average length = 0.78095                                |
+|  Minimal time = 0.00194655                               |
+|  Maximal time = 2.13086                                  |
+|  Average time = 0.40394                                  |
+|  Standard deviation = 0.427645                           |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Tobogan 2                                       |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 221                                |
+|  Average utilization = 0.580594                          |
++----------------------------------------------------------+
+  Input queue 'Tobogan 2.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  181                                           |
+|  Outcoming  181                                          |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.684177                               |
+|  Minimal time = 0.00713661                               |
+|  Maximal time = 1.92893                                  |
+|  Average time = 0.453598                                 |
+|  Standard deviation = 0.416136                           |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Tobogan 3                                       |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 183                                |
+|  Average utilization = 0.453707                          |
++----------------------------------------------------------+
+  Input queue 'Tobogan 3.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  122                                           |
+|  Outcoming  122                                          |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.551075                               |
+|  Minimal time = 0.011439                                 |
+|  Maximal time = 3.06662                                  |
+|  Average time = 0.542041                                 |
+|  Standard deviation = 0.624872                           |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Tobogan 4                                       |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 120                                |
+|  Average utilization = 0.282882                          |
++----------------------------------------------------------+
+  Input queue 'Tobogan 4.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  79                                            |
+|  Outcoming  79                                           |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.384633                               |
+|  Minimal time = 0.00642612                               |
+|  Maximal time = 3.86779                                  |
+|  Average time = 0.584253                                 |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Tobogan 5                                       |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 63                                 |
+|  Average utilization = 0.179199                          |
++----------------------------------------------------------+
+  Input queue 'Tobogan 5.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  45                                            |
+|  Outcoming  45                                           |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.330135                               |
+|  Minimal time = 0.054053                                 |
+|  Maximal time = 4.26289                                  |
+|  Average time = 0.88036                                  |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Restaurace, pokladna 1                          |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 91                                 |
+|  Average utilization = 0.529445                          |
++----------------------------------------------------------+
+  Input queue 'Restaurace, pokladna 1.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  58                                            |
+|  Outcoming  58                                           |
+|  Current length = 0                                      |
+|  Maximal length = 3                                      |
+|  Average length = 0.452967                               |
+|  Minimal time = 0.000896835                              |
+|  Maximal time = 4.15259                                  |
+|  Average time = 0.937174                                 |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Restaurace, pokladna 2                          |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 77                                 |
+|  Average utilization = 0.426932                          |
++----------------------------------------------------------+
+  Input queue 'Restaurace, pokladna 2.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  51                                            |
+|  Outcoming  51                                           |
+|  Current length = 0                                      |
+|  Maximal length = 3                                      |
+|  Average length = 0.323199                               |
+|  Minimal time = 0.0244509                                |
+|  Maximal time = 2.29117                                  |
+|  Average time = 0.760468                                 |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Restaurace, pokladna 3                          |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 54                                 |
+|  Average utilization = 0.282667                          |
++----------------------------------------------------------+
+  Input queue 'Restaurace, pokladna 3.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  32                                            |
+|  Outcoming  32                                           |
+|  Current length = 0                                      |
+|  Maximal length = 3                                      |
+|  Average length = 0.144586                               |
+|  Minimal time = 0.0185243                                |
+|  Maximal time = 1.72742                                  |
+|  Average time = 0.542198                                 |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Kafeterie, pokladna 1                           |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 166                                |
+|  Average utilization = 0.452587                          |
++----------------------------------------------------------+
+  Input queue 'Kafeterie, pokladna 1.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  104                                           |
+|  Outcoming  104                                          |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.467372                               |
+|  Minimal time = 9.14646e-05                              |
+|  Maximal time = 2.96907                                  |
+|  Average time = 0.539276                                 |
+|  Standard deviation = 0.543979                           |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| FACILITY Kafeterie, pokladna 2                           |
++----------------------------------------------------------+
+|  Status = not BUSY                                       |
+|  Time interval = 0 - 120                                 |
+|  Number of requests = 90                                 |
+|  Average utilization = 0.232931                          |
++----------------------------------------------------------+
+  Input queue 'Kafeterie, pokladna 2.Q1'
++----------------------------------------------------------+
+| QUEUE Q1                                                 |
++----------------------------------------------------------+
+|  Time interval = 0 - 120                                 |
+|  Incoming  51                                            |
+|  Outcoming  51                                           |
+|  Current length = 0                                      |
+|  Maximal length = 5                                      |
+|  Average length = 0.261256                               |
+|  Minimal time = 0.00658691                               |
+|  Maximal time = 1.58223                                  |
+|  Average time = 0.614721                                 |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| STORE Bazen                                              |
++----------------------------------------------------------+
+|  Capacity = 2000  (35 used, 1965 free)                   |
+|  Time interval = 0 - 120                                 |
+|  Number of Enter operations = 503                        |
+|  Minimal used capacity = 1                               |
+|  Maximal used capacity = 156                             |
+|  Average used capacity = 73.7158                         |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+| STORE Sauna                                              |
++----------------------------------------------------------+
+|  Capacity = 200  (3 used, 197 free)                      |
+|  Time interval = 0 - 120                                 |
+|  Number of Enter operations = 206                        |
+|  Minimal used capacity = 0                               |
+|  Maximal used capacity = 47                              |
+|  Average used capacity = 18.7754                         |
++----------------------------------------------------------+
+
+#
+# SIMLIB run-time statistics:
+#    StartTime  = 0
+#    EndTime    = 120
+#    EventCount = 4916
+#    StepCount  = 0
+#
